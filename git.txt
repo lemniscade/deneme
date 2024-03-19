@@ -6,3 +6,4 @@
 4.commit 2.oyun
 5.commit merge
 6. commit merge
+7. commit merge
